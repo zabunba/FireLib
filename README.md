@@ -1,6 +1,6 @@
 # FireLib
 
-**FireLib** is a lightweight UI library for generating HTML with JavaScript functions. It allows developers to build simple web interfaces using a component-like structure—no frameworks required.
+**FireLib** is a lightweight UI library for generating HTML with JavaScript functions. It allows developers to build simple web interfaces using a component-like structure `IgniteJS` required.
 
 ---
 
