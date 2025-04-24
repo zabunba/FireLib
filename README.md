@@ -1,6 +1,6 @@
-# FireLib
+# KraftUI
 
-**FireLib** is a lightweight UI library for generating HTML with JavaScript functions. It allows developers to build simple web interfaces using a component-like structure `IgniteJS` required.
+**KraftUI** is a lightweight UI library for generating HTML with JavaScript functions. It allows developers to build simple web interfaces using a component-like structure `KraftJS` required.
 
 ---
 
@@ -15,14 +15,14 @@
 
 ## Installation
 
-You can include FireLib in your project by copying the functions into your file or importing them as a module if using bundlers.
+You can include KraftUI in your project by copying the functions into your file or importing them as a module if using bundlers.
 
 ---
 
 ## Components Build Example
 
 ```.js
-//Line 41-49 FireLib.js
+//Line 41-49 KraftUI.js
 export function Title({ children, type, style }) {
   let Titletype;
   if(type == "Title1") Titletype = "h1";
@@ -36,10 +36,10 @@ export function Title({ children, type, style }) {
 
 ---
 
-## Usage Example w/IgniteJS  
+## Usage Example w/KraftJS  
 
 ```.js
-//Minimal Preview from App.js (IgniteJs)
+//Minimal Preview from App.js (KraftJS)
 import { StyleSheet, Title, Webpage } from "../lib/FireLib.js";
 
 const styles = StyleSheet.create({
